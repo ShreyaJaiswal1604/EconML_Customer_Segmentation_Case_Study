@@ -1,4 +1,11 @@
-# EconML_Customer_Segmentation_Case_Study
+---
+
+## <center> Customer Segmentation-Case Study-Causal Inference using EconML and Dowhy</center>
+
+---
+![Alt Text](https://github.com/ShreyaJaiswal1604/EconML_Customer_Segmentation_Case_Study/blob/main/images/OIG4.Tv5iK0NH_UBWGMErZXZj.jpeg)
+
+---
 
 ## Overview
 
